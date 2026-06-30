@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner: replace with your Canva banner image (see recommendation below) -->
-<img src="banner.png" width="100%" alt="Himanshu Kumar Sahu Banner"/>
+<img src="https://drive.google.com/file/d/1PwlFXP9JucpaXSlb6xiYYsjjiAB5KRbp/view?usp=sharing" width="100%" alt="Himanshu Kumar Sahu Banner"/>
 
 <h1>Hi, I'm Himanshu Kumar Sahu 👋</h1>
 
@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-647b5a297/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://himanshu6231.github.io/Portfolio/)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:himanshugpta1234@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Himanshu6231&color=blueviolet&style=flat)](https://github.com/Himanshu6231)
+
 
 </div>
 
