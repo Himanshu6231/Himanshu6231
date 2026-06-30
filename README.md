@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner: replace with your Canva banner image (see recommendation below) -->
-<img src="https://your-banner-image-url-here.png" width="100%" alt="Himanshu Kumar Sahu Banner"/>
+<img src="banner.png" width="100%" alt="Himanshu Kumar Sahu Banner"/>
 
 <h1>Hi, I'm Himanshu Kumar Sahu 👋</h1>
 
