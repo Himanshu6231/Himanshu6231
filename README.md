@@ -1,66 +1,62 @@
-<div align="center">
+<p align="center" width="70%">
+  <a href="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+    <img width="400" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" title="Namaste">
+  </a>
+</p>
 
-<!-- Banner: replace with your Canva banner image (see recommendation below) -->
-<img src="./banner.png" width="100%" alt="Himanshu Kumar Sahu Banner"/>
+<h1 align="center">Hi, I'm Himanshu Kumar Sahu 👋</h1>
 
-<h1>Hi, I'm Himanshu Kumar Sahu 👋</h1>
+<p align="center">
+<b>Computer Science Engineering Student | Software Engineering | Machine Learning</b>
+</p>
 
-**Computer Science Engineering Student | Software Engineering | Machine Learning**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-647b5a297/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://himanshu6231.github.io/Portfolio/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:himanshugpta1234@gmail.com)
-
-
-</div>
+<p align="center">
+<a href="https://www.linkedin.com/in/himanshu-647b5a297/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://himanshu6231.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:himanshugpta1234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://leetcode.com/Himanshu8898" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
+<a href="https://codeforces.com/profile/himanshu062004" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white"/></a>
+</p>
 
 ---
 
-### About Me
-
-Passionate about Data Structures & Algorithms, Machine Learning, and Software Development. I enjoy building practical applications using AI and solving real-world problems through code.
+### 🧭 About Me
 
 - 🎓 B.Tech in Computer Science Engineering, Lovely Professional University (2023 – 2026)
 - 🔭 Currently building projects across **applied ML** and **full-stack development**
 - 🌱 Strengthening my foundations in **DSA, OOPs, Operating Systems, and Computer Networks**
+- 💡 Interests span supervised/unsupervised learning, NLP, and Explainable AI
 - 🤝 Open to **internship** opportunities in Software Engineering / Machine Learning
+- 📫 Reach me at **himanshugpta1234@gmail.com**
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-**Tools & Platforms**
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-**Machine Learning**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat&logo=xgboost&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+<p align="left">
+<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/></a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/></a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/></a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="sklearn" width="40" height="40"/></a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/streamlit/streamlit-original.svg" alt="streamlit" width="40" height="40"/></a>
+</p>
 
 `Regression` · `Classification` · `Decision Trees` · `Random Forest` · `Data Preprocessing` · `Feature Engineering`
-
-**Core CS**
-
 `Data Structures & Algorithms` · `Operating Systems` · `OOPs` · `Computer Networks`
 
 ---
 
 ### 🚀 Featured Projects
+
+**[FaceVoiceAuth — Tri-Modal Biometric Authentication](https://github.com/Amit123103/Face-and-voice-auth)**
+A tri-modal authentication system combining face recognition, voice verification, and password login, built collaboratively as a capstone project.
+`Python` `OpenCV` `Speech Recognition` `Security`
 
 **[Justice Gap Identification System](https://github.com/Himanshu6231/justice-gap-identification-system)**
 Applied FP-Growth association rule mining on legal aid case data to surface outcome disparities, using support/confidence/lift to flag systemic delays and bias.
@@ -76,23 +72,18 @@ Regression pipeline trained on 200,000 vehicle records (15 features) to predict 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Himanshu6231&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu6231&layout=compact&theme=default&hide_border=true" width="40%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Himanshu6231&theme=default&hide_border=true" width="48%"/>
-
-</div>
+<p align="center">
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation Contribution Graph" />
+</p>
 
 ---
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-647b5a297/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://himanshu6231.github.io/Portfolio/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:himanshugpta1234@gmail.com)
+<p align="center">
+<a href="https://www.linkedin.com/in/himanshu-647b5a297/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="https://himanshu6231.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:himanshugpta1234@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+</p>
 
-</div>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%"/>
